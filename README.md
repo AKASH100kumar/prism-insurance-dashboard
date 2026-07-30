@@ -56,7 +56,7 @@ The main dashboard page gives a complete performance snapshot in a single view:
 - **Policy Type × Claim Status Matrix** – A detailed table cross-tabulating Pending, Rejected, and Settled claim amounts against each Policy Type, with row totals, giving a granular financial breakdown of claims liability by product line.
 
 ### 2. Policy & Claims Detail Table
-![Transaction Detail Table](images/02_transaction_detail_table.png)
+![Transaction Detail Table](https://github.com/AKASH100kumar/prism-insurance-dashboard/blob/main/02_transaction_detail_table.png)
 
 A record-level, filterable table exposing every policy and its associated claim:
 
