@@ -43,7 +43,7 @@ The `.pbix` file (`Project2-Insurance_Data_Analysis.pbix`) contains the full dat
 ## 📊 Dashboard Pages
 
 ### 1. PRISM Insurance – Executive Overview
-![PRISM Insurance Dashboard Overview](images/01_dashboard_overview.png)
+![PRISM Insurance Dashboard Overview](https://github.com/AKASH100kumar/prism-insurance-dashboard/blob/main/01_dashboard_overview.png)
 
 The main dashboard page gives a complete performance snapshot in a single view:
 
